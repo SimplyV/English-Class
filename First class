@@ -3,4 +3,42 @@ What should we start with ?
 What does HTML stand for ?
 Linking stuff -> Hyper
 
+
+Who is making the web standards ?
+The World Wide Web Consortium
+
+Choose the correct HTML element for the largest heading ?
+So actually here, heading is about typography.
+<h1>
+
+
+What is the correct HTML element for inserting a line break ?
+<br>
+A line break / Action -> Line breaking / Verb -> To line break
+
+What is the correct HTML for adding a background color ?
+Attribute, style, between quotes
+style="background-color: yellow;"
+
+Choose the correct HTML element to define important text
+<strong>
+
+Choose the correct HTML element to define emphasized text
+Em
+
+What is the correct HTML for creating a hyperlink ?
+<a href=""></a>
+
+Crash Course is a concentrated course. 
+
+## Ressources
+
+CrashCourse -> YouTube
+
+## Vocabulary
+
 Typo -> Mistakes ( erreur ) 
+Allows -> Permettre
+
+
+dorina_milena@yahoo.co.uk
