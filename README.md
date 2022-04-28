@@ -1,6 +1,6 @@
 # English-Class
 
-## Informational websites :
+## Informational websites - Second class:
 
 ### Punctuation
 
@@ -8,7 +8,7 @@ https://grammar.yourdictionary.com/punctuation/what/fourteen-punctuation-marks.h
 
 https://punctuationmarks.org/
 
-### Prununciation
+### Pronounciation
 
 https://www.rong-chang.com/prules.htm
 
