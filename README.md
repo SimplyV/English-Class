@@ -26,3 +26,6 @@ https://www.englishcurrent.com/grammar/common-english-mistakes-quiz/
 
 20/06/2022
 https://www.englisch-hilfen.de/en/complex_tests/simple_present1/index.php
+
+20/06/2022
+https://www.englisch-hilfen.de/en/exercises/pronouns/possessive_pronouns2.htm
