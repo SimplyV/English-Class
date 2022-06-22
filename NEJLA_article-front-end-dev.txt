@@ -1,0 +1,12 @@
+
+
+WHAT DOES A FRONT-END DEVELOPER DO ?
+
+firstly, front-end developer creates, design websites and applications
+using html css and javascript and they determine where to place the elements of the website so it's easy to navigate for the user.
+
+secondly front-end developers earn 88.000$ a year and the demand for this job is growing.
+This job can be flexible because you can work on your own, for a company or for a non profit organisation. And you can also work across the country or the globe.
+
+an other thing to remember is that this career increases you creativity and problem-solving skills. However, the skills you want to have as a front-end developer are the 3 languages(html,css,javascript), understanding the frameworks for the languages and understanding how to use different software. 
+
