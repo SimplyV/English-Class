@@ -29,3 +29,6 @@ https://www.englisch-hilfen.de/en/complex_tests/simple_present1/index.php
 
 20/06/2022
 https://www.englisch-hilfen.de/en/exercises/pronouns/possessive_pronouns2.htm
+
+22/06/2022
+https://www.coursera.org/articles/front-end-developer
