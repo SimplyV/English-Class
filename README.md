@@ -51,3 +51,9 @@ https://www.englisch-hilfen.de/en/complex_tests/simple_present2/index.php
 https://digitalagencynetwork.com/website-developer-vs-website-designer-what-is-the-difference/
 
 
+23/06/2022
+https://www.englisch-hilfen.de/en/exercises/nouns_articles/a_the.htm
+https://www.englisch-hilfen.de/en/exercises/nouns_articles/a_the_2.htm
+
+
+
