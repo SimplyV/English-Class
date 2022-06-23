@@ -37,3 +37,6 @@ https://www.coursera.org/articles/front-end-developer
 
 22/06/2022
 https://www.oxford-royale.com/articles/words-phrases-good-essays/
+
+23/06/2022
+https://www.englisch-hilfen.de/en/exercises/pronouns/possessive_pronouns2.htm
