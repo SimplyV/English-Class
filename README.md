@@ -47,4 +47,7 @@ https://www.englisch-hilfen.de/en/exercises/pronouns/mix_3.htm
 23/06/2022
 https://www.englisch-hilfen.de/en/complex_tests/simple_present2/index.php
 
+23/06/2022
+https://digitalagencynetwork.com/website-developer-vs-website-designer-what-is-the-difference/
+
 
